@@ -1,2 +1,4 @@
 # qiansionmall
-study
+
+resource download:
+http://learning.happymmall.com/
